@@ -203,3 +203,7 @@ svg * {
     scroll-behavior: auto !important;
   }
 }
+
+h1 {
+  color: red;
+}
